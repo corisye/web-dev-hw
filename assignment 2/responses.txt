@@ -1,4 +1,7 @@
--Data travels across the internet as packets of large data that are broken up into smaller packets. they don't all travel the same path but when they reach the destination the packets are reassembled
--An IP or internet protocol address is a series of numbers that each specific device has in order to be identified. A DNS associates name with an IP address, making it easier to identify.
--A cookie is an ID card that a website sends to your computer after you have visited the website. This helps the website recall your preferences when you visit the website agian.
+-Data travels across the internet as packets of large data that are broken up into smaller packets.
+they don't all travel the same path but when they reach the destination the packets are reassembled
+-An IP or internet protocol address is a series of numbers that each specific device
+has in order to be identified. A DNS associates name with an IP address, making it easier to identify.
+-A cookie is an ID card that a website sends to your computer after you have visited the website.
+This helps the website recall your preferences when you visit the website agian.
 -The three main parts to a URL are protocol, domain name and path.
