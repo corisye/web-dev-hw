@@ -1,5 +1,5 @@
 # Assingment 2
-A _version control system_ tracks changes as they happen. This helps the user to view their progress. The changes have to be named and described before committed to the master this helps users go back and easily locate a file or change.  We are all using the the version control system github. This creates a shared community to view each others work and collaborate.
+A _version control system_ tracks changes as they happen. This helps the user to view their progress. The changes have to be named and described before committed to the master this helps users go back and easily locate a file or change.  We are all using the same version control system github. This creates a shared community to view each others work and collaborate.
 
 [my responses](./responses.txt)
 
