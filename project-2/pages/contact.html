@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="utf-8">
+  <meta name="description" content="Contact us">
+  <meta name="author" content="Cori Buer">
+  <meta name="keywords" content="contact, bathbomb, diy, questionnaire">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact us!</title>
+   <style>
+    body {
+     background-color: #ecdfec;
+       }
+    h1 {
+     color: black;
+     text-align: center;
+     text-shadow: 2px 1px grey;
+      }
+    h2 {
+     color: black
+     text-align: center;
+     text-shadow: 2px 1px grey;
+      }
+    p {
+     color: black
+      }
+    ul {
+      text-align: center;
+      padding: 10px
+        }
+     .table-one {
+      background-color: #cfb0cf
+        }
+    a {padding: 4px}
+  </style>
+</head>
+
+<body>
+  <center><div>
+  <nav id="main">
+    <ul id="main-nav" class="table-one">
+     <a href="./home">Home</a> &middot;
+    <a href="./pages/about">About</a> &middot;
+    <a href="./pages/contact">Contact</a>
+   </ul>
+ </div>
+ </nav>
+
+<div id="intro-paragraph">
+ <h1>Tell Us About Yourself</h1>
+</div>
+
+<hr>
+
+<div>
+  <form action="#" method="post" id="feedback" class="questionnaire">
+
+   <p>What did you think of this project?:
+     <select name="think"/>
+       <option value="meh">Meh</option>
+       <option value="okay">Just okay</option>
+       <option value="liked">Liked it</option>
+       <option value="loved" selected>Loved it!</option>
+     </select>
+   </p>
+
+   <p>Tell us a little bit about your self care methods:
+
+   </br>
+   </br>
+
+    <textarea name="comments" id="selfcare-text" cols="60" rows="10">Enter up to 500 characters...</textarea>
+   </p></center>
+
+<fieldset>
+  <legend>Aromatherapy Survey</legend>
+
+   <p>What is your favorite scent?</p>
+    <input type="radio" name="scent" value="lavender"/> Lavender
+    </br>
+    <input type="radio" name="scent" value="Sandalwood" /> Sandalwood
+    </br>
+    <input type="radio" name="scent" value="Rosemary" /> Rosemary
+    </br>
+    <input type="radio" name="scent" value="Peppermint" /> Peppermint
+    </br>
+    <input type="radio" name="scent" value="tea tree" /> Tea Tree
+
+    <p>What benefit of aromatherapy are you most interested in?</p>
+     <input type="radio" name="benefit" value="depression"/> Depression
+     </br>
+     <input type="radio" name="benefit" value="stress"/> Anxiety/stress
+     </br>
+     <input type="radio" name="benefit" value="respiratory"/> Respiratory health
+     </br>
+     <input type="radio" name="benefit" value="skin"/> Skin care
+     </br>
+     <input type="radio" name="benefit" value="other"/> Other <input type="text" name="other"/>
+
+    <p>How interested in aromatherapy are you?</p>
+     <input type="radio" name="rate" value="very-interested"/> Very interested
+     </br>
+     <input type="radio" name="rate" value="some-interested"/> Somewhat interested
+     </br>
+     <input type="radio" name="rate" value="neurtal"/> Neutral
+     </br>
+     <input type="radio" name="rate" value="not-interested"/> Not interested
+     </fieldset>
+
+    </br>
+
+     <input type="submit" name="submit" value="Submit" />
+
+    </br>
+
+    <p>Subscribe to our e-mail list:</p>
+     <input type="text" name="email" />
+     <input type="submit" name="subscribe" value="Subscribe" />
+
+   </div>
+ </br>
+ </br>
+ </body>
+</html>
