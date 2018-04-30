@@ -1,0 +1,26 @@
+@font-face {
+   font-family: 'Neuton-Regular';
+   src: url('../fonts/Neuton-Regular.ttf') format('opentype');
+   font-weight: normal;
+   font-style: normal;
+ }
+
+@font-face {
+  font-family: 'Neuton-ExtraBold';
+  src: url('../fonts/Neuton-ExtraBold.ttf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+     font-family: 'Volkhov-Regular';
+     src: url('../fonts/Volkhov-Regular.ttf') format('opentype');
+     font-weight: normal;
+     font-style: normal;
+   }
+
+@font-face {
+  font-family: 'Pacifico-Regular';
+  src: url('../fonts/Pacifico-Regular.ttf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
