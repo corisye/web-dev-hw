@@ -12,7 +12,7 @@ h1 {
   padding-left: 100px;
   padding-right: 100px;
   padding-top: 30px;
-  letter-spacing: -1;}
+  letter-spacing: 2;}
 
   h3 {
     color: #d19527;
@@ -43,7 +43,7 @@ h1 {
 
   p {
   font-family: Volkhov-Regular;
-  letter-spacing: -1;
+  letter-spacing: 1;
   }
 
   .button {
