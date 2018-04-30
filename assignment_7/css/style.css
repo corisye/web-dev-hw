@@ -5,6 +5,7 @@ body {
 
 h1 {
   text-align: center;
+  color: #b24321;
   font-family: Neuton-ExtraBold;
   font-size: 230%;
   font-style: bold;
@@ -19,15 +20,16 @@ h1 {
     text-align: center;
     font-family: Pacifico-Regular;
     font-style: normal;
-    font-size: 170%;
+    font-size: 200%;
     }
 
   h4 {
     text-align: center;
     font-family: Neuton-Regular;
-    font-weight: 300;
-    font-style: normal;
-    font-size: 140%;
+    font-weight: 400;
+    font-style: bold;
+    font-size: 150%
+
   }
 
   body {
