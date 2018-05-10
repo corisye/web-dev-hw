@@ -1,0 +1,152 @@
+body {
+  background-color: FDFDF1;
+}
+
+.woman {
+  position: absolute;
+  left: 40px;
+  top: 70px;
+  z-index: 3;
+}
+ .intro{
+  position: absolute;
+  left: 400px;
+  top: 85px;
+  width: 300;
+  height: 200;
+  transform: scaleY(1.5);
+  z-index: 2;
+}
+
+.filterqueen{
+  position: absolute;
+  left: 400;
+  top: 220;
+  width: 420;
+  height: 275;
+}
+
+.icon-inside{
+  position: absolute;
+  left: 375px;
+  top: 400px;
+  width: 100;
+  height: 100;
+}
+.icon-wastebasket{
+  position: absolute;
+  left: 375px;
+  top: 700px;
+  width: 100;
+  height: 100;
+}
+
+
+.icon-outside {
+  position: absolute;
+  left: 375px;
+  top: 550px;
+  width: 100;
+  height: 100;
+}
+
+.icon-inside-header{
+  color: red;
+  position: absolute;
+  left: 500px;
+  top: 400px;
+  width: 300;
+  height: 100;
+}
+
+.icon-outside-header{
+  color: red;
+  position: absolute;
+  left: 500px;
+  top: 550px;
+  width: 300;
+  height: 100;
+}
+
+.icon-wastebasket-header{
+  color: red;
+  position: absolute;
+  left: 500px;
+  top: 700px;
+  width: 300;
+  height: 100;
+}
+
+.icon-inside-text{
+  position: absolute;
+  left: 500px;
+  top: 475px;
+  width: 300;
+  height: 100;
+}
+
+.icon-outside-text{
+  position: absolute;
+  left: 500px;
+  top: 600px;
+  width: 300;
+  height: 100;
+}
+
+.icon-wastebasket-text{
+  position: absolute;
+  left: 500px;
+  top: 775px;
+  width: 300;
+  height: 100;
+}
+
+.textblock1{
+  position: absolute;
+  left: 5px;
+  top: 875px;
+  width: 500;
+  height: 200;
+}
+
+.textblock2{
+  position: absolute;
+  left: 5px;
+  top: 1250px;
+  width: 500;
+  height: 200;
+}
+
+.textblock3{
+  position: absolute;
+  left: 500;
+  top:923;
+  width: 400;
+  height: 500;
+  z-index: 2;
+}
+
+.logo{
+  position: absolute;
+  left: 425;
+  top:1100;
+  z-index: 2;
+}
+
+.guarantee{
+  position: absolute;
+  left: 750;
+  top:1350;
+  z-index: 2;
+}
+
+.coupon {
+  position: absolute;
+  left: 525px;
+  top: 1475px;
+  width: 356;
+  height: 199;
+  z-index: 1;
+  padding-left: 13px;
+  border: 5px dashed black;
+}
